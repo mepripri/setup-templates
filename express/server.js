@@ -9,5 +9,5 @@ app.get("/", (req, res) => {
   res.send("Express backend running (setup)");
 });
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 0;
 app.listen(PORT, () => console.log(`Backend running on ${PORT}`));

@@ -6,7 +6,7 @@ app.use(async (ctx) => {
   ctx.body = "Koa backend running (setup)";
 });
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 0;
 app.listen(PORT, () => {
   console.log(`Koa server running on ${PORT}`);
 });
