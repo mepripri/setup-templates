@@ -1,16 +1,14 @@
-# React Dark Hacker Starter • Setup CLI
+# React Starter (Dynamic) • Setup CLI
 
-A dark, terminal-inspired React starter template generated with **Setup CLI**.
+This template automatically adapts based on what you generated:
 
-## 🚀 Features
+- Frontend only
+- Frontend + Backend
+- Full Stack
 
-- ⚡ Vite-powered React app
-- 🖥 Dark hacker / terminal aesthetic
-- 🧩 Reusable `StatCard` component
-- 🧱 Clean, minimal folder structure
-- 🛠 Perfect base for dashboards and dev tools
+It reads `setup.config.json` to render the correct UI.
 
-## 🏁 Getting Started
+## 🚀 Run
 
 ```bash
 npm install
