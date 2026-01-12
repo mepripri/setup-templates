@@ -1,0 +1,8 @@
+{
+  "name": "mysql-database",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "mysql2": "^3.9.0"
+  }
+}
