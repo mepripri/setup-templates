@@ -1,0 +1,11 @@
+{
+  "name": "koa-backend",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "koa": "^2.15.0"
+  }
+}
