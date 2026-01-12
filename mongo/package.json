@@ -1,0 +1,8 @@
+{
+  "name": "mongo-database",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "mongoose": "^7.0.0"
+  }
+}

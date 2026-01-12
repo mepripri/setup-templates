@@ -1,0 +1,13 @@
+{
+  "name": "drizzle-database",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "drizzle-orm": "^0.33.0",
+    "pg": "^8.11.0"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.25.0",
+    "typescript": "^5.0.0"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "sqlite-database",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "better-sqlite3": "^9.0.0"
+  }
+}
