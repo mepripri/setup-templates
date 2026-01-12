@@ -1,16 +1,16 @@
-# React Starter (Setup CLI)
+# React Dark Hacker Starter • Setup CLI
 
-A clean, modern React starter template generated using **Setup CLI**.
+A dark, terminal-inspired React starter template generated with **Setup CLI**.
 
 ## 🚀 Features
 
-- ⚡ Vite for fast development
-- 🎨 TailwindCSS preconfigured
-- 🧩 Reusable components
-- 📁 Clean folder structure
-- 🌙 Ready for customization
+- ⚡ Vite-powered React app
+- 🖥 Dark hacker / terminal aesthetic
+- 🧩 Reusable `StatCard` component
+- 🧱 Clean, minimal folder structure
+- 🛠 Perfect base for dashboards and dev tools
 
-## 📦 Install & Run
+## 🏁 Getting Started
 
 ```bash
 npm install
